@@ -27,7 +27,7 @@ RegisterNumber:
 
 ## Output:
 <img width="667" height="267" alt="Screenshot 2026-02-13 150050" src="https://github.com/user-attachments/assets/3aa25973-ddd8-4923-84dc-0fd8ea827ab5" />
-![Uploading Screenshot 2026-02-13 150103.png…]()
+<img width="1343" height="733" alt="Screenshot 2026-02-13 150103" src="https://github.com/user-attachments/assets/41b5ce37-4734-4ec9-af59-0d3bc5f5cfb7" />
 
 
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
